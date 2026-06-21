@@ -1,4 +1,4 @@
-# Repositorio de entrega — Proceso de validación de software
+# Proceso de validación de software
 
 **Curso:** Testing y Validación de Software — Maestría en Arquitectura de Software, Universidad de La Sabana
 **Autores:** Fredy Orlando Pulido Quintero · Myriam Andrea Martinez Fontecha
